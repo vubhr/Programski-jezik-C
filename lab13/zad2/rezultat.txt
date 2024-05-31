@@ -1,0 +1,2 @@
+Broj vrijednosti: 3
+Suma: 249

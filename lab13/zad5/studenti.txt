@@ -1,0 +1,6 @@
+prezime1
+23
+prezime2
+12
+prezime3
+6
